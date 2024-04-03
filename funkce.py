@@ -2,6 +2,7 @@ import random
 import time
 import math
 
+
 def odpocet(cas):
     for i in range (cas):
         time.sleep(1)
