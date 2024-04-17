@@ -12,8 +12,8 @@ words = ["apple", "banana", "grape", "orange", "kiwi", "pineapple", "strawberry"
 
 #print(words_dict)
 
-#x = {key:hodnota for key, hodnota in enumerate(words)}
+x = {key:hodnota for key, hodnota in enumerate(words)}
 
-#print(x)
+print(x)
 
 print(next(enumerate(words)))
